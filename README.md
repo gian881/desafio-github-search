@@ -1,7 +1,24 @@
-# desafio-github-search
-Criando um App Android para compartilhar seu portfolio de projeto 
+# Desafio GitHub Search
 
-Criar um App Android simples que armazene um usuário do GitHub (informado em uma tela inicial) e liste todos os seus repositórios públicos. Garanta que o nome do usuário seja salvo e o App tenha a capacidade de redefinir essa informação.
+## Descrição
 
-![image](https://user-images.githubusercontent.com/5827265/188474294-4472bcc0-24ee-4ccd-80a8-7cee0372e7fa.png)
+Esse foi um desafio proposto durante o Bootcamp Santander - Mobile Android com Kotlin
 
+O objetivo era criar um aplicativo que o usuário pudesse buscar por um usuário do GitHub e ver seus repositórios.
+
+## Funcionalidades
+
+O aplicativo possui as seguintes funcionalidades:
+
+- Busca de usuário
+- Listagem de repositórios do usuário buscado
+- Salvamento do usuário buscado nas shared preferences
+
+## Telas
+
+O aplicativo possui apenas uma tela, onde o usuário pode fazer a busca por um usuário do GitHub e ver seus repositórios, porém essa tela possui 3 estados diferentes:
+
+- Tela sem usuário buscado
+- Tela com o resultado da busca
+- Tela com o resultado da busca vazia
+- Tela com o resultado da busca com erro de usuário não encontrado
