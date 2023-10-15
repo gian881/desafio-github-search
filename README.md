@@ -16,7 +16,7 @@ O aplicativo possui as seguintes funcionalidades:
 
 ## Telas
 
-O aplicativo possui apenas uma tela, onde o usuário pode fazer a busca por um usuário do GitHub e ver seus repositórios, porém essa tela possui 3 estados diferentes:
+O aplicativo possui apenas uma tela, onde o usuário pode fazer a busca por um usuário do GitHub e ver seus repositórios, porém essa tela possui 4 estados diferentes:
 
 - ### Tela sem usuário buscado
 ![Tela apenas com o campo de busca](https://github.com/gian881/desafio-github-search/assets/22121448/19d64801-6dd8-4772-8989-4f00b36ab980)
