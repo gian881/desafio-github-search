@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">GitHubSearch</string>
+    <string name="main_title">GitHub</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="response_error">Algo deu errado. Tente novamente mais tarde!</string>
+    <string name="results">Resultados</string>
+    <string name="username">username</string>
+    <string name="user_not_found">Usuário não encontrado</string>
+    <string name="user_not_found_description">Usuário não encontrado</string>
+    <string name="empty_repositories">Este usuário não possui repositórios públicos</string>
+    <string name="empty_repositories_description">Caixa vazia</string>
+    <string name="github">GitHub</string>
+    <string name="share">Compartilhar</string>
 </resources>
